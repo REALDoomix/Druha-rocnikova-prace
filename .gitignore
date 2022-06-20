@@ -1,0 +1,45 @@
+############################
+# Backend.
+############################
+############################
+# Strapi
+############################
+
+/backend/.env
+/backend/license.txt
+/backend/exports
+/backend/*.cache
+/backend/build
+/backend/.strapi-updater.json
+
+############################
+# Node.js
+############################
+
+/backend/lib-cov
+/backend/lcov.info
+/backend/pids
+/backend/logs
+/backend/results
+/backend/node_modules
+/backend/.node_history
+
+############################
+# Misc.
+############################
+
+/backend/*#
+/backend/ssl
+/backend/.idea
+/backend/nbproject
+/backend/public/uploads/*
+/backend/!public/uploads/.gitkeep
+
+##############################
+# Frontend.
+##############################
+
+# dependencies
+/backend/node_modules
+/backend/.pnp
+/backend/.pnp.js
